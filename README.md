@@ -7,7 +7,7 @@ I build hardware, from the circuit board to the app.
   <a href="https://github.com/VlexWest/photopainter-jpg"><img src="img/photopainter.jpg" width="49%" alt="Waveshare PhotoPainter showing a JPEG straight from the SD card"></a>
 </p>
 
-**PlantKeeper** is the big one: a solar watering computer that decides on its own when & how much to water. I designed the board, firmware, app & backend. [plantkeeper.de](https://plantkeeper.de/go/gh)
+**[PlantKeeper](https://plantkeeper.de/go/gh)** is the big one: a solar watering computer that decides on its own when & how much to water. I designed the board, firmware, app & backend.
 
 Right now, on my terrace. Live from the device, refreshed every 10 minutes:
 
