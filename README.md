@@ -11,7 +11,7 @@ I build hardware, from the circuit board to the app.
 
 Right now, on my terrace. Live from the device, refreshed every 10 minutes:
 
-<a href="https://plantkeeper.de/go/gh"><img src="https://plantkeeper.de/api/showcase/card.svg" width="100%" alt="PlantKeeper live card: tank, battery, last & next watering, weather, 7-day trend"></a>
+<a href="https://plantkeeper.de/go/gh"><img src="https://plantkeeper.de/api/showcase/card.svg?v=2" width="100%" alt="PlantKeeper live card: tank, battery, last & next watering, weather, 7-day trend"></a>
 
 **[photopainter-jpg](https://github.com/VlexWest/photopainter-jpg)** lets the Waveshare PhotoPainter show JPEGs straight from the SD card. Waveshare now links it in their [official docs](https://www.waveshare.com/wiki/PhotoPainter#Related_Document).
 
