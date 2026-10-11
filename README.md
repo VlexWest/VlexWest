@@ -1,6 +1,4 @@
-# Alexander West
-
-I build hardware, from the circuit board to the app.
+# Can't buy it? Build it.
 
 <p>
   <a href="https://plantkeeper.de/go/gh"><img src="img/plantkeeper.jpg" width="49%" alt="PlantKeeper, opened: own circuit board, two pumps & a battery next to the solar panel"></a>
