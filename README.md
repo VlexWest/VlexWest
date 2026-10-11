@@ -1,6 +1,6 @@
 # Alexander West
 
-Software architect in Munich. After work I build hardware, from the circuit board to the app.
+I build hardware, from the circuit board to the app.
 
 <p>
   <a href="https://plantkeeper.de/go/gh"><img src="img/plantkeeper.jpg" width="49%" alt="PlantKeeper, opened: own circuit board, two pumps & a battery next to the solar panel"></a>
